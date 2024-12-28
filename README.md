@@ -3,7 +3,7 @@
 ### Hi, I'm [Nitesh Bawane] 👨‍💻 | **Quality Analyst** | **Automation & Manual Testing Specialist**
 
 ![QA Banner](![image](https://github.com/user-attachments/assets/634ee4a2-74b9-4b00-ae34-646364fef087)
-)  
+)
 
 ---
 
