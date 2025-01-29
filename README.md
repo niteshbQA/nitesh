@@ -2,8 +2,6 @@
 
 ### Hi, I'm [Nitesh Bawane] 👨‍💻 | **Quality Analyst** | **Automation & Manual Testing Specialist**
 
-![QA Banner](![image](https://github.com/user-attachments/assets/634ee4a2-74b9-4b00-ae34-646364fef087)
-)
 
 ---
 
@@ -68,5 +66,3 @@ Explore some of my featured repositories:
 🌐 **Portfolio**: [yourportfolio.com](#)
 
 ---
-
-![Footer Image](https://www.google.com/search?q=qa+engineer+footer+image&sca_esv=3b4249385fa7053d&udm=2&biw=1280&bih=585&sxsrf=ADLYWIIyAdtDTil64IH8ba0M1LZOAmLhQQ%3A1735393497216&ei=2QBwZ935DOyb4-EPuIegkQY&ved=0ahUKEwidysnHzMqKAxXszTgGHbgDKGIQ4dUDCBA&uact=5&oq=qa+engineer+footer+image&gs_lp=EgNpbWciGHFhIGVuZ2luZWVyIGZvb3RlciBpbWFnZUicP1DXCVjeN3ABeACQAQCYAZkOoAGhJaoBETAuOC4yLjAuMS4wLjEuMC4xuAEDyAEA-AEBmAIFoALBBcICBBAjGCfCAg0QABiABBixAxhDGIoFwgIGEAAYBxgewgIKEAAYgAQYQxiKBcICBRAAGIAEwgILEAAYgAQYsQMYgwHCAgQQABgewgIGEAAYCBgemAMAiAYBkgcFMS4zLjGgB9UV&sclient=img#vhid=z_7tIdtvkyBrkM&vssid=mosaic)
